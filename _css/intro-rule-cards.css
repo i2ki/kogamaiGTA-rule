@@ -1,0 +1,136 @@
+/* intro.md専用 ルールカード（画像準拠レイアウト） */
+
+.intro-rule-cards {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+    margin: 2rem 0;
+    width: 100%;
+    max-width: none;
+}
+
+.intro-rule-card-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    border-radius: 1rem;
+    transition: transform 0.2s;
+}
+
+.intro-rule-card-link:hover,
+.intro-rule-card-link:focus {
+    transform: translateY(-4px) scale(1.02);
+}
+
+/* Light mode styles (default) */
+.intro-rule-card {
+    background: #ffffff;
+    /* ライトモードの背景 */
+    color: #1c1e21;
+    /* ライトモードの文字色 */
+    border-radius: 1rem;
+    box-shadow: 0 4px 24px 0 rgba(0, 0, 0, 0.08);
+    /* ライトモード用の影を少し薄く */
+    padding: 2rem;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    /* 高さを揃える */
+    margin-bottom: 1rem;
+    border: 1px solid #e0e0e0;
+    /* ライトモード用の境界線 */
+}
+
+.intro-rule-card h3 {
+    margin-top: 0;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #1c1e21;
+    /* ライトモードのH3文字色 */
+}
+
+.intro-rule-card p {
+    color: #5c5f66;
+    /* ライトモードのP文字色 */
+    font-size: 0.95rem;
+    margin-bottom: 1.2em;
+}
+
+.intro-rule-label {
+    font-weight: 700;
+    margin-right: 0.5em;
+    font-size: 1em;
+}
+
+.intro-rule-label-main {
+    color: #007bff;
+    /* ライトモードのメインラベル色 */
+}
+
+.intro-rule-label-penalty {
+    color: #dc3545;
+    /* ライトモードのペナルティラベル色 */
+}
+
+/* Dark mode styles */
+[data-theme='dark'] .intro-rule-card {
+    background: #23263a;
+    color: #fff;
+    border: 2px solid transparent;
+    /* ダークモードでは境界線を透明に */
+    box-shadow: 0 4px 24px 0 rgba(0, 0, 0, 0.12);
+}
+
+[data-theme='dark'] .intro-rule-card h3 {
+    color: #fff;
+}
+
+[data-theme='dark'] .intro-rule-card p {
+    color: #b3b3c6;
+}
+
+[data-theme='dark'] .intro-rule-label-main {
+    color: #38bdf8;
+}
+
+[data-theme='dark'] .intro-rule-label-penalty {
+    color: #f472b6;
+}
+
+/* カードごとの配置 */
+.card-item-1 {
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+}
+
+.card-item-2 {
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
+}
+
+.card-item-3 {
+    grid-column: 1 / 3;
+    /* 2列目全体に広げる */
+    grid-row: 2 / 3;
+    justify-self: center;
+    /* 中央寄せ */
+    max-width: 480px;
+    /* 他のカードと同じ最大幅 */
+}
+
+@media (max-width: 768px) {
+
+    /* スマホ表示では1列に */
+    .intro-rule-cards {
+        grid-template-columns: 1fr;
+    }
+
+    .card-item-1,
+    .card-item-2,
+    .card-item-3 {
+        grid-column: auto;
+        grid-row: auto;
+        justify-self: auto;
+        max-width: none;
+    }
+}
