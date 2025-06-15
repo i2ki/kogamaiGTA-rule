@@ -4,8 +4,6 @@ sidebar_position: 1
 title: 'はじめに'
 ---
 
-import "./_css/intro-rule-cards.css";
-
 # はじめに
 
 ルールをお読みいただくことは、ご負担に感じられる方も多いかと存じます。
