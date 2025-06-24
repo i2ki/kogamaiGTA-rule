@@ -442,10 +442,10 @@ Virtue・Powersurge・Shinobi・Shinobi Outlaw・Hakuchou Dragは１犯罪につ
 
 
 ### 第3条　犯罪開始に必要な警察官の出勤人数
-✔ 各種の犯罪行為を行うためには、一定数以上の警察官が出勤している必要があります。
+✔ 各種の犯罪行為を行うためには、一定数以上の警察官が出勤している必要があります
 
 <details>
-<summary><strong></strong>★</summary>
+<summary><strong>各種犯罪に必要な警察官の出勤員数</strong></summary>
 <div>
 
 
@@ -502,17 +502,6 @@ Virtue・Powersurge・Shinobi・Shinobi Outlaw・Hakuchou Dragは１犯罪につ
 
 </div>
 </details>
-犯罪（罪状）	警察官の出勤人数
-空き巣	2人
-ATM強盗　2人
-店舗強盗	3人
-ヴァンジェリコ宝石強盗	4人
-軍事物資輸送車両強盗　4人
-フリーサ銀行強盗	5人
-【大型】客船強盗	6人
-【大型】アーティファクト強盗	6人
-薬物売買(市民)	4人
-薬物売買(売人)	3人
 
 ### 第4条　犯罪に関わる人数の制限
 ✔ 1つの犯罪に関わる人数に制限を設けます。
@@ -520,13 +509,50 @@ ATM強盗　2人
 <details>
 <summary><strong>各種犯罪をチェイス移行目的で行う場合の人数制限</strong></summary>
 <div>
-犯罪（罪状）	犯罪者
-空き巣	1～2人
-店舗強盗	1～2人
-ヴァンジェリコ宝石強盗	1～2人
-フリーサ銀行強盗	1～2人
-【大型】客船強盗	2～4人
-【大型】アーティファクト強盗	2～4人
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">犯罪（罪状）</th>
+      <th scope="col">犯罪者</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">空き巣</th>
+      <td><center>1～2人</center></td>
+    </tr>
+    <tr>
+      <th scope="row">ATM強盗</th>
+      <td><center>1～2人</center></td>
+    </tr>
+    <tr>
+      <th scope="row">店舗強盗</th>
+      <td><center>1～2人</center></td>
+    </tr>
+    <tr>
+      <th scope="row">ヴァンジェリコ宝石強盗</th>
+      <td><center>1～2人</center></td>
+    </tr>
+    <tr>
+      <th scope="row">フリーサ銀行強盗</th>
+      <td><center>1～2人</center></td>
+    </tr>
+    <tr>
+      <th scope="row">軍事物資輸送車両強盗</th>
+      <td><center>1～3人</center></td>
+    </tr>
+    <tr>
+      <th scope="row">【大型】客船強盗</th>
+      <td><center>2～4人</center></td>
+    </tr>
+    <tr>
+      <th scope="row">【大型】アーティファクト強盗</th>
+      <td><center>2～4人</center></td>
+    </tr>
+  </tbody>
+</table>
+
 ※逃走ほう助は表記の人数に含まれます。
 </div>
 </details>
@@ -534,17 +560,62 @@ ATM強盗　2人
 <details>
 <summary><strong>各種犯罪を銃撃戦を含めて行う場合の人数制限</strong></summary>
 <div>
-犯罪（罪状）	犯罪者	警察官
-空き巣	1～2人	2～6人
-店舗強盗	1～3人	2～6人
-ヴァンジェリコ宝石強盗	1～4人	4～8人
-フリーサ銀行強盗	1～5人	4～10人
-【大型】客船強盗	2～4人	6～8人
-【大型】アーティファクト強盗	2～4人	6～8人
-※逃走ほう助は表記の人数に含まれます。
 
-※人数を超過して行いたい場合、事前に警察官へ相談してください。
-　ただし、嫌がらせ目的や悪質と判断された場合は、警察官から許可されていたとしても人数超過違反となる可能性があります。
+<table>
+  <thead>
+    <tr>
+      <th scope="col">犯罪（罪状）</th>
+      <th scope="col">犯罪者</th>
+      <th scope="col">警察官</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">空き巣</th>
+      <td><center>1～2人</center></td>
+      <td><center>2～6人</center></td>
+    </tr>
+    <tr>
+      <th scope="row">ATM強盗</th>
+      <td><center>1～2人</center></td>
+      <td><center>2～4人</center></td>
+    </tr>
+    <tr>
+      <th scope="row">店舗強盗</th>
+      <td><center>1～3人</center></td>
+      <td><center>2～6人</center></td>
+    </tr>
+    <tr>
+      <th scope="row">ヴァンジェリコ宝石強盗</th>
+      <td><center>1～4人</center></td>
+      <td><center>4～8人</center></td>
+    </tr>
+    <tr>
+      <th scope="row">フリーサ銀行強盗</th>
+      <td><center>1～5人</center></td>
+      <td><center>4～10人</center></td>
+    </tr>
+    <tr>
+      <th scope="row">軍事物資輸送車両強盗</th>
+      <td><center>1～3人</center></td>
+      <td><center>4～6人</center></td>
+    </tr>
+    <tr>
+      <th scope="row">【大型】客船強盗</th>
+      <td><center>2～4人</center></td>
+      <td><center>1～2人</center></td>
+    </tr>
+    <tr>
+      <th scope="row">【大型】アーティファクト強盗</th>
+      <td><center>2～4人</center></td>
+      <td><center>6～8人</center></td>
+    </tr>
+  </tbody>
+</table>
+
+※逃走ほう助は表記の人数に含まれます。<br/>
+※人数を超過して行いたい場合、事前に警察官へ相談してください。<br/>
+　ただし、嫌がらせ目的や悪質と判断された場合は、警察官から許可されていたとしても人数超過違反となる可能性があります。<br/>
 ※現場の監視カメラが壊されていた場合、警察官は銃撃戦を想定して出動します。
 </div>
 </details>
@@ -552,8 +623,24 @@ ATM強盗　2人
 <details>
 <summary><strong>薬物売買に関わる人数制限</strong></summary>
 <div>
-罪状	犯罪者	警察官
-薬物売買	1～3人	1～6人
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">犯罪（罪状）</th>
+      <th scope="col">犯罪者</th>
+      <th scope="col">警察官</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">薬物売買</th>
+      <td><center>1～3人</center></td>
+      <td><center>1～6人</center></td>
+    </tr>
+  </tbody>
+</table>
+
 ※警察官は薬物売買通報で急行した際、現場敷地内にいる市民に向けて実銃での先撃ちが許可されています。
 </div>
 </details>
