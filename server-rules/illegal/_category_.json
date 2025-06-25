@@ -1,0 +1,9 @@
+{
+    "label": "犯罪ルール",
+    "className": "illegal",
+    "position": 5,
+    "link": {
+        "type": "generated-index",
+        "slug": "illegal"
+    }
+}

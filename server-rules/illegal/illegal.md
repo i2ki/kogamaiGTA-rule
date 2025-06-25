@@ -1,7 +1,7 @@
 ---
-sidebar_label: '犯罪ルール'
-sidebar_position: 3
-title: '犯罪ルール'
+sidebar_label: '犯罪全般ルール'
+sidebar_position: 1
+title: '犯罪全般ルール'
 ---
 
 犯罪に関わる警察官や犯罪者が守るべきルールです。

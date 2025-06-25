@@ -1,6 +1,6 @@
 ---
 sidebar_label: '公務員ルール'
-sidebar_position: 5
+sidebar_position: 3
 title: '公務員ルール'
 ---
 
