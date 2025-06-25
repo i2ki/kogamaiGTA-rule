@@ -2,8 +2,10 @@
     "label": "犯罪ルール",
     "className": "illegal",
     "position": 5,
+    "description": "犯罪に関わる警察官や犯罪者が守るべきルールです。",
     "link": {
         "type": "generated-index",
-        "slug": "illegal"
+        "description": "犯罪に関わる警察官や犯罪者が守るべきルールです。",
+        "slug": "server-rules/illegal"
     }
 }
