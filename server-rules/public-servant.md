@@ -114,7 +114,7 @@ PKとは、プレイヤーを殺害することを指します。
 </details>
 
 <details>
-<summary><strong>8. 防弾性能のある服装やエモートの使用</strong></summary>
+<summary><strong>3. 防弾性能のある服装やエモートの使用</strong></summary>
 <div>
 防弾性のある服飾や装飾、エモートは、すべて禁止です。
 </div>

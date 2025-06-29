@@ -13,9 +13,34 @@ title: 'ギャングルール'
 
 ### 1. ギャングの義務
 
+<details>
+<summary><strong>1. ルールの遵守</strong></summary>
+<div>
+[犯罪ルール](https://gta-web.kogamai.workers.dev/rules/server-rules/illegal/general)は、RPにおける整合性を保ち、他プレイヤーのRPを尊重するために必要不可欠なものです。<br/>
+すべてのプレイヤーが円滑にプレイできるよう、必ず遵守してください。
+</div>
+</details>
+
+<details>
+<summary><strong>2. 他プレイヤーのRPを尊重すること</strong></summary>
+<div>
+一方的にRPを壊す行為（例：即時射殺・拉致・略奪）は極力避け、対話や駆け引きを重視すること。<br/>
+相手にとって理由のない襲撃や過剰な暴力行為と感じさせないよう気を付けましょう。
+</div>
+</details>
+
+<details>
+<summary><strong>3. 組織の一員であることを自覚すること</strong></summary>
+<div>
+ギャング活動では、構成員ひとり一人の行動が、組織全体に影響を与える可能性があります。<br/>
+行動の内容によっては、他のギャングや組織、市民にも思わぬ形で影響を与えてしまう可能性があることを念頭に行動するよう心がけましょう。
+</div>
+</details>
+
+<br/>
+
 ### 2. ギャングの禁止行為
 ✔ ギャングは、以下に掲げる行為を禁止します。
-
 
 <details>
 <summary><strong>1. 各ギャングで定めた制服を着ていない状態でのギャング活動行為</strong></summary>
@@ -41,6 +66,8 @@ title: 'ギャングルール'
 <div>
 </div>
 </details>
+
+<br/>
 
 ### 3. ギャングの結成と解散
 
@@ -80,6 +107,8 @@ title: 'ギャングルール'
 </div>
 </details>
 
+<br/>
+
 ### 4. ギャングの抗争
 
 <details>
@@ -87,25 +116,25 @@ title: 'ギャングルール'
 <div>
 
 <details>
-<summary><strong>1.警察へ通告せずに抗争を開始する行為</strong></summary>
+<summary><strong>1. 警察へ通告せずに抗争を開始する行為</strong></summary>
 <div>
 抗争を仕掛ける側は事前に<br/>
-「抗争を行う場所」「開始時間」「相手のギャングカラー(関与するギャング全色)」を警察へ通告すること。<br/>
+「抗争を行う場所」 「開始時間」 「相手のギャングカラー(関与するギャング全色)」 を警察へ通告すること。<br/>
 
 計画的抗争の場合も同様に、<br/>
-「抗争を行う場所」「抗争予定日時」「相手のギャングカラー(関与するギャング全色)」を警察へ通告すること。<br/>
+「抗争を行う場所」 「抗争予定日時」 「相手のギャングカラー(関与するギャング全色)」 を警察へ通告すること。<br/>
 計画的抗争に限り、抗争予定時刻の1時間前にtwitterで同内容を告知してください。
 </div>
 </details>
 
 <details>
-<summary><strong>2.各ギャングに定められた拠点エリアを奪取する行為</strong></summary>
+<summary><strong>2. 各ギャングに定められた拠点エリアを奪取する行為</strong></summary>
 <div>
 </div>
 </details>
 
 <details>
-<summary><strong>3.同じ色のギャングに2回以上抗争を仕掛ける行為</strong></summary>
+<summary><strong>3. 同じ色のギャングに1日に2回以上抗争を仕掛ける行為</strong></summary>
 <div>
 また、1回の抗争で2エリア以上の奪取は禁止です。<br/>
 計画的抗争に関してはこの限りではありません。
@@ -113,7 +142,7 @@ title: 'ギャングルール'
 </details>
 
 <details>
-<summary><strong>4.故意的に一般市民を巻き込む行為</strong></summary>
+<summary><strong>4. 故意的に一般市民を巻き込む行為</strong></summary>
 <div>
 事前に通告されたギャング抗争に警察は原則介入しませんが、<br/>
 一般市民が巻き込まれてしまった場合、警察が介入し両ギャング制圧されます。
@@ -121,28 +150,28 @@ title: 'ギャングルール'
 </details>
 
 <details>
-<summary><strong>5.地下・屋内での抗争行為</strong></summary>
+<summary><strong>5. 地下・屋内での抗争行為</strong></summary>
 <div>
 警察へ通告したエリア以外での抗争に関しても原則禁止です。
 </div>
 </details>
 
 <details>
-<summary><strong>6.ギャングカラーで統一された車両以外を使用する行為</strong></summary>
+<summary><strong>6. ギャングカラーで統一された車両以外を使用する行為</strong></summary>
 <div>
 仕掛けた側・仕掛けられた側、どちらも適用されます。
 </div>
 </details>
 
 <details>
-<summary><strong>7.抗争開始後30分以内に抗争エリアを離れる行為</strong></summary>
+<summary><strong>7. 抗争開始後30分以内に抗争エリアを離れる行為</strong></summary>
 <div>
 30分間何事もなく、エリアのカラーも変わった場合攻めた側の勝利となる。
 </div>
 </details>
 
 <details>
-<summary><strong>8.ダウンしたメンバーを抗争終了前に移動させる行為</strong></summary>
+<summary><strong>8. ダウンしたメンバーを抗争終了前に移動させる行為</strong></summary>
 <div>
 </div>
 </details>
@@ -151,7 +180,7 @@ title: 'ギャングルール'
 </details>
 
 <details>
-<summary><strong>2.一般市民が抗争に巻き込まれた場合</strong></summary>
+<summary><strong>2. 一般市民が抗争に巻き込まれた場合</strong></summary>
 <div>
 参加したギャングチームの全員にプレイヤー殺人が適用されます。<br/>
 ただし市民が参加ギャングに酷似した服装だった場合、市民の自己責任となりプレイヤー殺人は適応されない。<br/>
@@ -160,7 +189,7 @@ title: 'ギャングルール'
 </details>
 
 <details>
-<summary><strong>3.抗争終了について</strong></summary>
+<summary><strong>3. 抗争終了について</strong></summary>
 <div>
 抗争はどちらかが全滅または降参した時点で終了となります。降参は相手ギャングへ直接伝えること。<br/>
 勝利した側は警察へ終了した旨を報告すること。
@@ -168,7 +197,7 @@ title: 'ギャングルール'
 </details>
 
 <details>
-<summary><strong>4.計画的抗争について</strong></summary>
+<summary><strong>4. 計画的抗争について</strong></summary>
 <div>
 計画的抗争とは、あらかじめ決めれられた日時に抗争を行うことを指します。<br/>
 
@@ -178,10 +207,12 @@ title: 'ギャングルール'
 </div>
 </details>
 
+<br/>
+
 ### 5. その他
 
 <details>
-<summary><strong>1.スプレーについて</strong></summary>
+<summary><strong>1. スプレーについて</strong></summary>
 <div>
 スプレーは各ギャングのカラーとタグに限ります。<br/>
 地下、屋内へのスプレーは禁止します。
@@ -189,7 +220,7 @@ title: 'ギャングルール'
 </details>
 
 <details>
-<summary><strong>2.ROB行為について</strong></summary>
+<summary><strong>2. ROB行為について</strong></summary>
 <div>
 ギャング同士に限り、拘束道具以外のすべてのアイテムのROB行為が許されています。<br/>
 また、第2章(禁止行為)第4条(その他の禁止行為)No.3(ダウンした/させたプレイヤーからアイテムを強奪・略奪（以下、ROB）する行為)の適用外とします。

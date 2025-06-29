@@ -1,7 +1,7 @@
 ---
-sidebar_label: '犯罪全般ルール'
+sidebar_label: '犯罪全般の基本ルール'
 sidebar_position: 1
-title: '犯罪全般ルール'
+title: '犯罪全般の基本ルール'
 ---
 
 犯罪に関わる警察官や犯罪者が守るべきルールです。
@@ -28,6 +28,7 @@ title: '犯罪全般ルール'
 </div>
 </details>
 
+<br/>
 
 ### 2. 犯罪のルールと禁止行為
 ✔ 犯罪者は、以下に掲げるルールを厳守すること。項目ごとに禁止行為が存在します。
@@ -67,6 +68,7 @@ title: '犯罪全般ルール'
 <details>
 <summary><strong>5. 15分以上の誘拐・拉致・監禁行為</strong></summary>
 <div>
+15分以内であっても、正当な理由のない実施、もしくは反復的にこれを行うことは、禁止です。
 </div>
 </details>
 
@@ -109,14 +111,22 @@ title: '犯罪全般ルール'
 </details>
 
 <details>
-<summary><strong>10. サーバー再起動（AM8:00）30分前以降の犯罪行為を禁止</strong></summary>
+<summary><strong>10. 警察官の出勤人数が6人以下の際に、街中以外で犯罪を開始する行為</strong></summary>
+<div>
+犯罪が可能な範囲は下記画像を参照してください。
+<img src="https://gta-media.kogamai.com/image%2F1f4494e65591b623.png" width="80%" />
+</div>
+</details>
+
+<details>
+<summary><strong>11. サーバー再起動（AM8:00）30分前以降の犯罪行為を禁止</strong></summary>
 <div>
 30分前にアナウンスが流れます。それ以降の故意的な犯罪は禁止です。
 </div>
 </details>
 
 <details>
-<summary><strong>11. 逮捕後は以下の行為を禁止</strong></summary>
+<summary><strong>12. 逮捕後は以下の行為を禁止</strong></summary>
 <div>
 
  <details>
@@ -143,11 +153,14 @@ title: '犯罪全般ルール'
 </div>
 </details>
 
+<br/>
 
 ### 🧍人質について
+
 <details>
 <summary><strong>1. 人質に関する禁止行為</strong></summary>
 <div>
+
 
 <details>
 <summary><strong>1. 談合・買収した人間を人質と偽装する行為</strong></summary>
@@ -165,17 +178,15 @@ title: '犯罪全般ルール'
 
 <ul>
   <li>チェイス開始後、1分間警察ヘリコプターで追跡させない</li>
-  <li>チェイス開始後、車両からのアタックを1分禁止させる</li>
-  <li>チェイス開始後、発砲を1分禁止させる</li>
-  <li>チェイス開始後、アタック・発砲を30秒禁止させる</li>
-  <li>スパイク・ゲートの使用を禁止させる</li>
+  <li>チェイス開始後、車両からのアタックを一定時間禁止させる</li>
+  <li>スパイク・ゲートの使用を禁止させる　　　　　　　　　　　　　　　　等</li>　
 </ul>
 
 </div>
 </details>
 
 <details>
-<summary><strong>3. 人質解放交渉中に発砲（威嚇射撃含む）また、警察官を殺す行為は禁止</strong></summary>
+<summary><strong>3. 人質解放交渉中に発砲（威嚇射撃含む）また、警察官を殺す行為</strong></summary>
 <div>
 交渉後のチェイス中に、逃げる手段として発砲することは可能。
 </div>
@@ -190,26 +201,30 @@ title: '犯罪全般ルール'
 警察官が監視カメラや現場の状況を確認した際に、人質が見える位置にいない場合、人質がいないと判断されます。<br/>
 人質をとっていない場合、警察官は実銃での制圧を行います。<br/>
 全ての犯罪において、1人で行い人質をとる場合は警察官が到着する前に人質に銃を向けて待機し、<br/>
-到着した警察官に対し「人質がいる・はいってくるな」などの脅し文言を必ず発言すること。
+到着した警察官に対し「人質がいる、はいってくるな」などの脅し文言で人質がいることを必ず主張すること。
 </div>
 </details>
+
+<br/>
 
 ### 🚗車両の使用方法と制限
 
 <details>
 <summary><strong>1. 車両に関する禁止行為</strong></summary>
 <div>
-車両で建物の入口等をふさぐ行為<br/>
-犯罪に使用した車両を、警察官に押収される、または指名手配時間が終了する前に車庫へしまう行為<br/>
-徒歩状態の相手に対し、意図して車両を使って殺害する（以下、VPK）行為<br/>
-VPKから犯罪を開始する行為
+<ui>
+  <li>車両で建物の入口等をふさぐ行為</li>
+  <li>犯罪に使用した車両を、警察官に押収される、または指名手配時間が終了する前に車庫へしまう行為</li>
+  <li>徒歩状態の相手に対し、意図して車両を使って殺害する（以下、VPK）行為</li>
+  <li>VPKから犯罪を開始する行為</li>
+</ui>
 </div>
 </details>
 
 <details>
 <summary><strong>2. 警察官による車両の押収について</strong></summary>
 <div>
-押収された車両が時間制限により取り出せない場合、警察官へ連絡し$100,000支払うことですぐに出庫することが可能です。
+押収された車両が時間制限により取り出せない場合、警察官へ連絡し、一定金額支払うことですぐに出庫することが可能です。
 </div>
 </details>
 
@@ -227,7 +242,10 @@ Virtue・Powersurge・Shinobi・Shinobi Outlaw・Hakuchou Dragは１犯罪につ
 </div>
 </details>
 
+<br/>
+
 ### 🗡️プレイヤーキル（以下、PK）について
+
 <details>
 <summary><strong>1. PKに関する禁止行為</strong></summary>
 <div>
@@ -260,7 +278,10 @@ Virtue・Powersurge・Shinobi・Shinobi Outlaw・Hakuchou Dragは１犯罪につ
 </div>
 </details>
 
+<br/>
+
 ### 🔎指名手配について
+
 <details>
 <summary><strong>1. 指名手配に関する禁止行為</strong></summary>
 <div>
@@ -287,8 +308,31 @@ Virtue・Powersurge・Shinobi・Shinobi Outlaw・Hakuchou Dragは１犯罪につ
 </div>
 </details>
 
+<details>
+<summary><strong>4. 大型犯罪に参加する行為</strong></summary>
+<div>
+大型犯罪以外は指名手配中でも新たに開始することができます。
 </div>
 </details>
+
+<details>
+<summary><strong>5. 指名手配を6回以上重複させる行為</strong></summary>
+<div>
+罪状の種類にかかわらず、指名手配が5回目になった時点で罪を清算するまで追加の犯罪は一切禁止とします。
+</div>
+</details>
+
+</div>
+</details>
+
+<details>
+<summary><strong>2. 警察官を全滅させた場合について</strong></summary>
+<div>
+警察官が蘇生され次第、指名手配がかかります。
+</div>
+</details>
+
+<br/>
 
 ###  ⏸シーンの中断・再開について
 :::note シーンの中断とは….
@@ -350,6 +394,7 @@ Virtue・Powersurge・Shinobi・Shinobi Outlaw・Hakuchou Dragは１犯罪につ
 </div>
 </details>
 
+<br/>
 
 ### 💰大型犯罪について
 :::note 大型犯罪とは・・・
@@ -361,7 +406,7 @@ Virtue・Powersurge・Shinobi・Shinobi Outlaw・Hakuchou Dragは１犯罪につ
 <div>
 
 <details>
-<summary><strong>1. ギャングメンバー以外のみで大型犯罪をする行為</strong></summary>
+<summary><strong>1. ギャングメンバー以外のみで大型犯罪を開始する行為</strong></summary>
 <div>
 ギャングに属したメンバーが、傭兵として別ギャングメンバー、半グレを雇う事は可能。
 </div>
@@ -371,13 +416,17 @@ Virtue・Powersurge・Shinobi・Shinobi Outlaw・Hakuchou Dragは１犯罪につ
 <summary><strong>2. 大型専用戦闘服を着用せずに大型犯罪をする行為</strong></summary>
 <div>
 各ギャング、大型専用の戦闘服を作ること。（完成した戦闘服は警察が写真を撮り共有します。）<br/>
-傭兵を雇う場合は、各ギャングが定めた戦闘服を着用し行うこと。
+別ギャングメンバーや傭兵を雇う場合も含め、全員各ギャングが定めた戦闘服1種類の着用に統一すること。
 </div>
 </details>
 
 <details>
-<summary><strong>3. 大型犯罪の指名手配中に服を着替える行為</strong></summary>
+<summary><strong>3. 大型犯罪の指名手配中に服を脱ぐ、着替える行為</strong></summary>
 <div>
+大型犯罪を行った者は指名手配が終わる前に服装を変更することはできません。
+
+警察官は、犯行現場で着用されていた戦闘服のギャング色で指名手配通知を出します。<br/>
+誤認逮捕を避けるため、その犯罪に関与していないメンバーは戦闘服を着用しないようにすること。
 </div>
 </details>
 
@@ -390,8 +439,8 @@ Virtue・Powersurge・Shinobi・Shinobi Outlaw・Hakuchou Dragは１犯罪につ
 警察官が6人以上かつ、救急隊が1人以上出勤している場合に開始可能とする。※「受注」ではなく「開始」です。<br/>
 アーティファクト・現金は必ず全て盗ること。<br/>
 
-殲滅戦中、客船から海へ落下した場合、そのプレイヤーは死亡判定となります。船尾にて手を挙げて待機してください。<br/>
-逃走は、船・車(2台まで：台数制限内で乗り換え可)・ヘリコプター(1台まで)のみ使用可能です。<br/>
+殲滅戦中、客船から海へ落下した場合、そのプレイヤーは死亡判定となります。船尾にあがり手を挙げて待機してください。<br/>
+逃走は、船・車(各2台まで：台数制限内で乗り換え可)・ヘリコプター(1台まで)のみ使用可能です。<br/>
 ※逃走開始タイミングは警察車両（船・ヘリ含む）が視認でき次第可能となります。
 </div>
 </details>
@@ -408,19 +457,21 @@ Virtue・Powersurge・Shinobi・Shinobi Outlaw・Hakuchou Dragは１犯罪につ
   <li>赤枠範囲(画像)から出た後の再侵入</li>
   <li>緑高速道路からの撃ちおろし・陣取り</li>
 </ui>
+<img src="https://gta-media.kogamai.com/image%2F0f967ba328a2196f.png" width="60%" />
 </div>
 </details>
 
+<br/>
 
 ### 🌿違法薬物について
 <details>
-<summary><strong>1.違法薬物に関する禁止行為</strong></summary>
+<summary><strong>1. 違法薬物に関する禁止行為</strong></summary>
 <div>
 
 <details>
 <summary><strong>1. 中型以上の強盗犯罪発生時の薬物売買行為</strong></summary>
 <div>
-中型以上の強盗犯罪とは、空き巣・店舗強盗以外の強盗系犯罪のことを指します。
+中型以上の強盗犯罪とは、空き巣・ATM強盗・店舗強盗以外の強盗系犯罪のことを指します。
 </div>
 </details>
 
@@ -440,6 +491,7 @@ Virtue・Powersurge・Shinobi・Shinobi Outlaw・Hakuchou Dragは１犯罪につ
 </div>
 </details>
 
+<br/>
 
 ### 3. 犯罪開始に必要な警察官の出勤人数
 ✔ 各種の犯罪行為を行うためには、一定数以上の警察官が出勤している必要があります
@@ -502,6 +554,8 @@ Virtue・Powersurge・Shinobi・Shinobi Outlaw・Hakuchou Dragは１犯罪につ
 
 </div>
 </details>
+
+<br/>
 
 ### 4. 犯罪に関わる人数の制限
 ✔ 1つの犯罪に関わる人数に制限を設けます。
@@ -644,6 +698,9 @@ Virtue・Powersurge・Shinobi・Shinobi Outlaw・Hakuchou Dragは１犯罪につ
 ※警察官は薬物売買通報で急行した際、現場敷地内にいる市民に向けて実銃での先撃ちが許可されています。
 </div>
 </details>
+
+<br/>
+---
 
 :::warning 違反行為の報告について
 ルール違反やトラブルに遭遇した際は、速やかに<strong>チケット</strong>にてご報告ください。

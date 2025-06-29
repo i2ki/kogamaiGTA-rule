@@ -17,7 +17,7 @@ title: '組織ルール'
 ✔ 整備士は、以下に掲げる行為を禁止します。
 
 <details>
-<summary><strong>1.他のプレイヤーの車両から許可なくチューニングパーツを取り外す行為</strong></summary>
+<summary><strong>1. 他のプレイヤーの車両から許可なくチューニングパーツを取り外す行為</strong></summary>
 <div>
 チューニングパーツの載せ替えは可能です。
 依頼を受けた整備士は、パーツの種類に間違いがないようしっかりと確認を行ってください。
@@ -25,21 +25,14 @@ title: '組織ルール'
 </details>
 
 <details>
-<summary><strong>2.他人に危害を加えることができる武装パーツなどを装着、販売する行為</strong></summary>
+<summary><strong>2. 他人に危害を加えることができる武装パーツなどを装着、販売する行為</strong></summary>
 <div>
 アリーナ車(Arena・Future shock・Nightmare)や武装車両はボディスパイクとスピニングブレードを付けないようにして下さい。
 </div>
 </details>
 
-
 <details>
-<summary><strong>3.ダクトテープを整備士以外に渡す行為</strong></summary>
-<div>
-</div>
-</details>
-
-<details>
-<summary><strong>4.整備工場オーナー・サブオーナー階級の犯罪RP行為</strong></summary>
+<summary><strong>3. 整備工場オーナー・サブオーナー階級の犯罪RP行為</strong></summary>
 <div>
 </div>
 </details>
@@ -57,13 +50,13 @@ title: '組織ルール'
 ✔ 飲食店員は、以下に掲げる行為を禁止します。
 
 <details>
-<summary><strong>1.店在庫の飲食物を無料で持ち出し・配布する行為</strong></summary>
+<summary><strong>1. 店在庫の飲食物を無料で持ち出し・配布する行為</strong></summary>
 <div>
 </div>
 </details>
 
 <details>
-<summary><strong>2.飲食店オーナー・サブオーナー階級の犯罪RP行為</strong></summary>
+<summary><strong>2. 飲食店オーナー・サブオーナー階級の犯罪RP行為</strong></summary>
 <div>
 </div>
 </details>
