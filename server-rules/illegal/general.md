@@ -275,6 +275,12 @@ Virtue・Powersurge・Shinobi・Shinobi Outlaw・Hakuchou Dragは１犯罪につ
 </div>
 </details>
 
+<details>
+<summary><strong>4. リスポーンをしたプレイヤーを病院付近で待ち伏せする行為</strong></summary>
+<div>
+</div>
+</details>
+
 </div>
 </details>
 
